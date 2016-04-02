@@ -3,4 +3,4 @@
 * http://fullcalendar.io/
 * https://github.com/fullcalendar/fullcalendar
 
-[screenshoot]: https://github.com/mzm-dev/full-calendar-example/blob/master/ScreenShot.png "screenshoot"
+![ScreenShot](https://raw.githubusercontent.com/mzm-dev/full-calendar-example/master/ScreenShot.png)
